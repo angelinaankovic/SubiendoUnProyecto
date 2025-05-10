@@ -1,0 +1,2 @@
+#mayor que: >
+#menor que: <
