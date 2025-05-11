@@ -19,8 +19,4 @@ class perro(animal):
 
 
 pedro = perro(patas= 4, especie= "perro", color = "blanco", nombre = "pedro", accion = "ladrando")
-pedro.introduccion()
-pedro.hacer_accion()
 chiqui = perro(patas= 4, especie = "gato", color = "multicolor", nombre = "chiqui", accion = "maullando")
-chiqui.introduccion()
-chiqui.hacer_accion()
